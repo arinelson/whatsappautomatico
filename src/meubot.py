@@ -2,7 +2,7 @@ from selenium import webdriver
 import time
 
 # Caminho para o WebDriver (ajuste conforme necessário)
-driver_path = 'caminho_para_o_chromedriver'
+driver_path = 'webdriver/chromedriver.exe'
 
 # Lista de contatos (apenas 2 contatos neste caso)
 contatos = ["Contato1", "Contato2"]
